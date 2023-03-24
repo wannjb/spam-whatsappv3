@@ -12,8 +12,8 @@ $ python -m pip install -r requirements.txt
 $ python spam.py
 ```
 ## Get Token
+> Jika link ke 1 error, gunakan link ke 2 ngab..
 - Link Ke 1 <code><a href="https://s.id/TokenSpamWhatsAppv3-1">click here</a></code>
-> Jika error gunakan link ke 2 ngab..
 - Link Ke 2 <code><a href="https://s.id/TokenSpamWhatsAppv3-2">click here</a></code>
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
