@@ -2,7 +2,10 @@
 ```
 Tools ini dibuat untuk ngerjain
 Kang Ripper atau boleh juga buat
-nyepam Mantan Lu awokawokwkwk:v
+nyepam Mantan Lu awokawokwkwk:v.
+Dan script ini dibuat oleh wanntwo
+Jika ingin script spam call atau memblokir SIM bisa kalian order.
+Jika ingin order - 0895327997477
 ```
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 ## How to it?
@@ -13,10 +16,10 @@ $ python spam.py
 ```
 ## Get Token
 > Jika link ke 1 error, silahkan gunakan link ke 2 ngab..
-- Link Ke 1 <code><a href="https://s.id/TokenSpamWhatsAppv3-1">click here</a></code>
+- Link Ke 1 <code><a href="yWOA5Q4NQ6QzVhWX85oTUd1M8juayCm3v5IY8jyNrf60ZSb1W">click here</a></code>
 - Link Ke 2 <code><a href="https://s.id/TokenSpamWhatsAppv3-2">click here</a></code>
 ## Support Me On
-<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<b>• [Facebook](https://m.facebook.com/Wawanjr)</b>
 <br>
-<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+<b>• [Youtube](https://youtube.com/@wawanjrjr-vt1lw)</b>
 </br>
